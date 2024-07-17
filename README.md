@@ -1,2 +1,3 @@
-# literalura
-Un api que trade datos de en formato json y los guarda en base de datos para luego consultar
+# challenger literalura
+Un api que trae datos en formato json de la siguinte y los guarda en base de datos para luego consultar
+luego por libros o por autor  puede ver los libros por idioma
